@@ -1,6 +1,7 @@
 name: ilebora_push
 description: BoraPush is a Dart package enabling real-time server-sent events (SSE) communication, providing simple yet powerful tools for server and client-side implementations.
-version: 0.0.1
+license: MIT
+version: 0.0.2
 homepage:
 
 environment:
